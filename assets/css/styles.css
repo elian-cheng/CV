@@ -367,12 +367,17 @@ img {
 .profile__img_desktop {
   display: none;
 }
+.profile__picture {
+  display: flex;
+  flex-direction: column;
+}
 .profile__img {
   width: 300px;
   /* height: 150px; */
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
+  margin-bottom: 0.8rem;
 }
 .profile__description {
   text-align: center;
@@ -406,6 +411,11 @@ img {
 .profile__buttons {
   display: flex;
   justify-content: center;
+  gap: 0.5rem;
+}
+.profile__download-link {
+  margin: 0.5rem 0;
+  /* padding: 10px; */
 }
 /*==================== SKILLS ====================*/
 .skills__container {

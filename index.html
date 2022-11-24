@@ -131,8 +131,19 @@
       <h2 class="section__title">Profile</h2>
       <span class="section__subtitle">About Me</span>
       <div class="profile__container container grid">
-        <img src="./assets/img/about.jpg" alt="profile-photo" class="profile__img profile__img_desktop">
-        <img src="./assets/img/about-mobile.jpg" alt="profile-photo" class="profile__img profile__img_mobile">
+        <div class="profile__picture">
+          <img src="./assets/img/about.jpg" alt="profile-photo" class="profile__img profile__img_desktop">
+          <img src="./assets/img/about-mobile.jpg" alt="profile-photo" class="profile__img profile__img_mobile">
+          <div class="profile__buttons">
+            <a download="" href="./assets/pdf/Olga Chernega CV.pdf" class="button profile__download-link">Download CV
+              <i class="uil uil-download-alt button__icon"></i>
+            </a>
+            <a download="" href="./assets/pdf/EF SET Certificate Olga Chernega.pdf"
+              class="button profile__download-link">English Certificate
+              <i class="uil uil-download-alt button__icon"></i>
+            </a>
+          </div>
+        </div>
         <div class="profile__data">
           <div class="profile__info">
             <div class="profile__info-card">
@@ -157,11 +168,6 @@
             prospects and study something I wanted for a long time: IT development. So I'm successfully doing it for
             already 6 months with a significant progress and a portfolio full of new projects, you can see below.
           </p>
-          <div class="profile__buttons">
-            <a download="" href="./assets/pdf/Olga Chernega CV.pdf" class="button button_flex">Download CV
-              <i class="uil uil-download-alt button__icon"></i>
-            </a>
-          </div>
         </div>
       </div>
     </section>
@@ -785,9 +791,6 @@
   <a href="#" class="scrollup" id="scroll-up">
     <i class="uil uil-arrow-up scrollup__icon"></i>
   </a>
-
-  <!--==================== SWIPER JS ====================-->
-  <script src="./assets/js/swiper-bundle.min.js"></script>
 
   <!--==================== MIXITUP FILTER ====================-->
   <script src="./assets/js/mixitup.min.js"></script>
