@@ -477,13 +477,13 @@ img {
   width: 80%;
 }
 .skills__ts {
-  width: 10%;
+  width: 80%;
 }
 .skills__react {
-  width: 10%;
+  width: 70%;
 }
-.skills__bootstrap {
-  width: 10%;
+.skills__node {
+  width: 50%;
 }
 .skills__git {
   width: 80%;
