@@ -15,7 +15,7 @@
 ## Profile
 
 _Creative person with rich life and work experience. Lived for 6 years in China, then moved back to Ukraine. Accustomed to work with international clients, excellent knowledge of English and Chinese. At first worked in logistics and product manufacturing. Then studied marketing for a long time, working in and sales and customer support.
-Start of war in Ukraine gave me some free time to reconsider my life prospects and study something I wanted for a long time: IT development. So I'm successfully doing it for already 6 months with a significant progress and a portfolio full of new projects, you can see on my GitHub._
+Start of war in Ukraine gave me some free time to reconsider my life prospects and study something I wanted for a long time: IT development. So I'm successfully doing it for more than a year with a significant progress and a portfolio full of new projects, you can see on my GitHub._
 
 ## Skills
 
